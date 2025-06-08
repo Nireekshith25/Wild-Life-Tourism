@@ -9,9 +9,7 @@ A comprehensive **Wildlife Tourism** web application developed as a full stack J
 - 📁 **Project Title**: Wildlife Tourism Web Application  
 - 🎯 **Purpose**: To create an interactive platform that simplifies booking safaris and villas, showcases wildlife photography, provides educational wildlife content, and connects users with expert tour guides.  
 - 💻 **Technology Stack**: Java (Spring Boot), HTML5, CSS3, JavaScript, Bootstrap, MySQL, RESTful APIs  
-- 🧑‍💻 **Type**: Full Stack Mini Project  
-- 👨‍🎓 **Developed By**: [Your Name]  
-- 📅 **Completion Date**: [Date]  
+- 🧑‍💻 **Type**: Java Full Stack  Project  
 
 ---
 
